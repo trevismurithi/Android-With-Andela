@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="title_main">Welcome to ALC 4.0</string>
+    <string name="button_b">ABOUT ALC</string>
+    <string name="button_c">MY PROFILE</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="track_name">Track: Android </string>
+    <string name="country_name">Country: Kenya</string>
+    <string name="email_name">Email: trevismurithi@gmail.com</string>
+    <string name="phone_number">Phone Number +254 724 462 514</string>
+    <string name="my_username">Slack Username: @Trevis</string>
+</resources>
